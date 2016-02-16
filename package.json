@@ -1,0 +1,25 @@
+{
+  "name": "nightwatch-example",
+  "version": "0.0.1",
+  "description": "Testing the nightwatch library to e2e tests.",
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rodrigo-morais/nightwatch-example.git"
+  },
+  "keywords": [
+    "nightwatch",
+    "e2e"
+  ],
+  "author": "Rodrigo Morais",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rodrigo-morais/nightwatch-example/issues"
+  },
+  "homepage": "https://github.com/rodrigo-morais/nightwatch-example",
+  "devDependencies": {
+    "chromedriver": "^2.21.2",
+    "nightwatch": "^0.8.16",
+    "selenium-standalone": "^4.9.0"
+  }
+}
